@@ -7,7 +7,7 @@ from PIL import Image
 class_labels = ["python", "alligator", "misc"]  # Based on the order in Teachable Machine
 
 # Load the Teachable Machine model
-model = load_model('/Users/andy/code/python/keras_model.h5')
+model = load_model('/Users/rishi/code/python/keras_model.h5')
 
 def classify_image(image_path):
     # Load image
