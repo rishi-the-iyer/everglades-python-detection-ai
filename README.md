@@ -1,5 +1,5 @@
 # everglades-python-detection-ai
-AI ML models to help detect Burmese Pythons in drone camera images
+AI ML models to help detect Burmese Pythons in camera images
 keras_model.h5 is the Keras Tensorflow model exported from Teachable Machine 
 
 # Prerequisites
